@@ -1,0 +1,1 @@
+"C:\Documents and Settings\Yuhei.A138076B3BE44BA\My Documents\Files\Programs\TimeTable\Debug\TimeTable.exe" > "C:\Documents and Settings\Yuhei.A138076B3BE44BA\My Documents\Files\Programs\TimeTable\Debug\Debug.txt"

@@ -1,0 +1,2 @@
+cd "C:\Documents and Settings\Yuhei.A138076B3BE44BA\My Documents\Files\Programs\TimeTable\TimeTable\Release\‰È–Úƒf[ƒ^"
+"C:\Documents and Settings\Yuhei.A138076B3BE44BA\My Documents\Files\Programs\TimeTable\DataRoader\Debug\DataRoader.exe" | ..\TimeTable.exe > TimeTableTest.txt

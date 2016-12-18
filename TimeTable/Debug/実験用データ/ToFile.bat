@@ -1,0 +1,2 @@
+cd "C:\Documents and Settings\Yuhei.A138076B3BE44BA\My Documents\Files\Programs\TimeTable\TimeTable\Debug\実験用データ"
+"C:\Documents and Settings\Yuhei.A138076B3BE44BA\My Documents\Files\Programs\TimeTable\DataRoader\Debug\DataRoader.exe" | ..\TimeTable.exe > TimeTableTest.txt

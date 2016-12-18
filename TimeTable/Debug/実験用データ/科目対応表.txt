@@ -1,0 +1,75 @@
+72
+#
+#
+微分積分学
+化学Ⅱ
+基礎製図
+現代国語Ⅱ
+Oral Communication Ⅱ
+日本史
+体育Ⅱ
+物理
+機構学
+音楽
+機械製作実習
+Science　English
+線形代数学Ⅰ
+ReadingⅡ
+政治経済
+物理
+プログラミング言語Ⅰ
+化学Ⅱ
+ReadingⅡ
+政治経済
+日本史
+電気回路Ⅰ
+音楽
+創造電気実験Ⅰ
+体育Ⅱ
+現代国語Ⅱ
+線形代数学
+古典Ⅱ
+Science　English
+政治経済
+化学Ⅱ
+Science　English
+電気回路Ⅰ
+日本史
+体育Ⅱ
+線形代数学Ⅰ
+Listening　Ⅱ
+電子工学実験
+物理
+ReadingⅡ
+古典Ⅱ
+現代国語Ⅱ
+Science　English
+体育Ⅱ
+日本史
+化学Ⅱ
+情報工学実験Ⅰ
+現代国語Ⅱ
+線形代数学Ⅰ
+物理
+Listening　Ⅱ
+プログラミング言語
+Oral Communication Ⅱ
+政治経済
+情報基礎
+ReadingⅡ
+無機化学Ⅰ
+物理
+体育Ⅱ
+ReadingⅡ
+日本史
+分析化学実験
+生物学
+Science　English
+線形代数学Ⅰ
+音楽
+政治経済
+Listening　Ⅱ
+現代国語Ⅱ
+化学Ⅱ
+古典Ⅱ
+HR

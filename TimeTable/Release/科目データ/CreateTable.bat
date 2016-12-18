@@ -1,0 +1,2 @@
+cd "C:\Documents and Settings\Yuhei.A138076B3BE44BA\My Documents\Files\Programs\TimeTable\TimeTable\Release\科目データ"
+"C:\Documents and Settings\Yuhei.A138076B3BE44BA\My Documents\Files\Programs\TimeTable\DataConverter\Debug\DataConverter.exe" 科目対応表.txt 4 > Test.txt
